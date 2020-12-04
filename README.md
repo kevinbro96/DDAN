@@ -5,7 +5,7 @@ This resposity is the official implementation of our AAAI2021 [Paper](https://ar
 
 #### Dependent
 * Python 3.7.5
-* PyTorch == 1.3.1
+* PyTorch 1.3.1
 #### Datasets
 You maybe need the [CUHK-SYSU](https://drive.google.com/file/d/1yoQOTp--ULGPct6erCsAQ_hd46hENE5G/view?usp=sharing) and the [iLIDS](https://drive.google.com/file/d/1_2bYbnH0GIDE6BfjZdtWVQE2nK134ZLi/view?usp=sharing).
 Other datasets are available from the original author's open source website. 
